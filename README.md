@@ -1,12 +1,39 @@
-# React + Vite
+# Newsilla
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Newsilla is a modern React-based news application that fetches the latest news from the News API. The app is built using Bootstrap for a clean and responsive design. Users can easily browse news articles by various categories such as Entertainment, Cricket, Sports, Engineering, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches real-time news data from the News API
+- Browse news by different fields/categories:
+  - Entertainment
+  - Cricket
+  - Sports
+  - Engineering
+  - And more!
+- Responsive UI powered by Bootstrap
+- Easy navigation and user-friendly interface
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Bootstrap
+- News API
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+A big thank you to the creators of [News API](https://newsapi.org/) for providing an excellent source of news data.  
+Thanks to the Bootstrap team for the powerful and easy-to-use UI framework.  
+And thank you to everyone who supports and contributes to this project!
+
+---
+
+Enjoy staying updated with Newsilla! 🚀
