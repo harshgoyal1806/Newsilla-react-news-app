@@ -10,6 +10,9 @@ Newsilla is a modern React-based news application that fetches the latest news f
   - Cricket
   - Sports
   - Engineering
+  - Health
+  -Science
+  -General
   - And more!
 - Responsive UI powered by Bootstrap
 - Easy navigation and user-friendly interface
